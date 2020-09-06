@@ -31,9 +31,12 @@ This API is based on the structure based on a simple python project to get NEWS 
 ```
 
 ## How to Run the API 
-```
+
 Run the ***app.py*** file from the command after which we can use the below HTTP GET url get the source scrapped
+```
 *http://localhost:5000/?source_url=*
+```
+```
 *http://localhost:5000/?source_url=www.website.com*
 ```
 
