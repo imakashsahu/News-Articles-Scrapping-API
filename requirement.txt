@@ -1,0 +1,3 @@
+newspaper3k
+news-fetch
+flask
